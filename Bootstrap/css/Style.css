@@ -1,0 +1,88 @@
+body{
+	 background-color: lightgrey;
+}
+.logo img{
+	 width:60px;
+	 height:60px;
+}
+
+.nav{
+	 background-color: #00ac77;
+	}
+.main{
+		padding-right: 0px;
+		padding-left: 0px;
+}
+
+#menu{
+	background-color: #00ac77;
+}
+
+#menu li #home{
+	color: white;
+}
+
+#menu li #news{
+	color: white;
+}
+
+#menu li #business{
+	color: white;
+}
+
+#menu li #sports{
+	color: white;
+}
+
+#menu li{
+	color: #000;
+}
+
+.jumbotron{
+	margin-top:80px;
+}
+.jumbotron .item{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	height: 500px;
+}
+.item img{
+	width: 100%;
+	height: 440px;
+}
+
+.carousel-caption p{
+	font-size: 16px;
+	margin-bottom:-70px;
+	color:#fff;
+	text-align: justify;
+	text-justify: inter-word;
+}
+.sec
+{
+	width:408px; 
+	height:445px;
+}
+.sec img{
+	width: 398px;
+	height: 245px;
+}
+.mid{
+		padding-right: 0px;
+		padding-left: 0px;
+}
+.bot{
+	background-color: #fff;
+}
+.bot .lis{
+	font-size: 17px;
+}
+footer li{
+	list-style-type: none;
+	display: inline;
+	padding: 5px;	
+}
+footer h4{
+	margin-bottom: -1px;
+}

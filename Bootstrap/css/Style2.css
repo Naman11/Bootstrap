@@ -1,0 +1,76 @@
+body{
+	 background-color: lightgrey;
+}
+.logo img{
+	 width:60px;
+	 height:60px;
+}
+
+.nav{
+	 background-color: #00ac77;
+	}
+.main{
+		padding-right: 0px;
+		padding-left: 0px;
+}
+
+#menu{
+	background-color: #00ac77;
+}
+
+#menu li #home{
+	color: white;
+}
+
+#menu li #news{
+	color: white;
+}
+
+#menu li #business{
+	color: white;
+}
+
+#menu li #sports{
+	color: white;
+}
+
+#menu li{
+	color: #000;
+}
+
+.bot{
+	margin-top:60px;
+	background-color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+}
+.bot .lis{
+	font-size: 17px;
+}
+
+.bot img{
+	width: 500px;
+	height:400px;
+}
+.bot .para{
+	padding-left: 20px;
+}
+.below{
+	background-color: #fff;
+}
+.below .para{
+	padding-left: 20px;
+}
+.start img{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+footer li{
+	list-style-type: none;
+	display: inline;
+	padding: 5px;	
+}
+footer h4{
+	margin-bottom: -1px;
+}
